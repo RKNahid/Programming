@@ -6,6 +6,7 @@
 #include <cstdlib>
 #define N 200000
 
+
 int custo;
 int father[N];
 
