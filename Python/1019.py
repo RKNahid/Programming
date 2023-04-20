@@ -1,4 +1,5 @@
 a = int(input())
+
 if a>3600:
     h = int(a/3600)
     a = a%3600
