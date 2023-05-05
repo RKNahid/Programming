@@ -1,5 +1,6 @@
 a,b,c,d = map(float,input().split())
 av = ((a*2)+(b*3)+(c*4)+d)/10
+
 print("Media: %.1f"%av)
 if av<5.0:
     print("Aluno reprovado.")
