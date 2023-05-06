@@ -5,7 +5,6 @@ if b<c:
     b,c = c,b
 if a<b:
     a,b = b,a
-
 if a>=(b+c):
     print("NAO FORMA TRIANGULO")
 elif (a*a) == (b*b)+(c*c):
