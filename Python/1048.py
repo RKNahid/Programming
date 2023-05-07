@@ -1,4 +1,5 @@
 a = float(input())
+
 if 0.00 <= a <= 400.00:
     r = float(a*(15/100))
     print("Novo salario: %.2f"%(a+r))
