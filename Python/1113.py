@@ -6,4 +6,4 @@ while 1:
         if a>b:
             print("Decrescente")
         else:
-            print("crescente")
+            print("Crescente")
