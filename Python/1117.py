@@ -9,4 +9,4 @@ while 1:
     else:
         print("nota invalida")
 b=c/2.00
-
+print("media = %.2f"%b)
