@@ -17,4 +17,5 @@ while 1:
         t=int(input())
         if t==1 or t==2:
             break
-
+    if t==2:
+        break
